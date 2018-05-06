@@ -1,0 +1,5 @@
+.Tilt{
+	background: #4568dc; /* fallback for old browsers */
+	background: -o-linear-gradient(left, #4568dc, #b06ab3);
+	background: linear-gradient(to right, #4568dc, #b06ab3); /* Chrome 10-25, Safari 5.1-6 */ 
+}	
